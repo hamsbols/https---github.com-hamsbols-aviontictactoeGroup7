@@ -143,3 +143,4 @@ prevBtn.style.display = "none";
 nextBtn.style.display = "none";
 
 startGame();
+// proj
